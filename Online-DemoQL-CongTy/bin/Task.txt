@@ -1,0 +1,5 @@
+T-001 # Đăng Nhập # 4
+T-002 # Đăng Ký # 6
+T-013 # Phân Quyền # 29
+T-004 # Tạo Cơ Sở Dữ Liệu # 20
+T-005 # Test Giao Diện # 12

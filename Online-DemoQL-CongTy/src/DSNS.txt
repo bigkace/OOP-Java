@@ -1,0 +1,10 @@
+NS-001 # Bưởi # 1990 # buoi@gmail.com # 09134 # 27 # true
+NS-002 # Chuối # 1992 # chuoi@gmail.com # 09234 # 28 # false
+NS-003 # Mận # 1998 # man@gmail.com # 09334 # 29 # false
+NS-004 # Xoài # 1993 # xoai@gmail.com # 09534 # 27 # true
+NS-005 # Hoa # 1994 # hoa@gmail.com # 09634 # 27 # false
+NS-006 # Lan # 1992 # lan@gmail.com # 09734 # 25 # false
+NS-007 # Hương # 1993 # huong@gmail.com # 09834 # 28 # true
+NS-008 # Vịt # 1990 # vit@gmail.com # 09934 # 30 # false
+NS-009 # Heo # 1994 # heo@gmail.com # 091034 # 31 # false
+NS-010 # Gà # 1995 # ga@gmail.com # 091134 # 29 # false

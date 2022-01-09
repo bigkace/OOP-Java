@@ -1,0 +1,20 @@
+T-001 # Thêm Nhân Viên # 8
+T-002 # Xoá Nhân Viên # 12
+T-003 # Đăng nhập # 4
+T-004 # Đăng ký # 6
+T-005 # Kiểm tra tài khoản # 5
+T-006 # Kiểm tra hợp lệ # 4
+T-007 # Biên dịch # 3
+T-008 # Test đăng nhập # 3
+T-009 # Test đăng xuất # 2
+T-010 # Giao diện trang chủ # 20
+T-011 # Giao diện người dùng # 21
+T-012 # Giao diện nhân viên # 13
+T-013 # Phân quyền # 29
+T-014 # Thêm người dùng # 9
+T-015 # Xoá người dùng # 12
+T-016 # Tạo cơ sở dữ liệu # 20
+T-017 # Test giao diện # 12
+T-018 # Dàn layout # 22
+T-019 # Test xoá nhân viên # 11
+T-020 # Test thêm nhân viên # 10

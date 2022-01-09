@@ -1,0 +1,11 @@
+Ha # 1990 # Ha Noi   # Ha Noi # 2014 # Natural
+Thanh # 1975 # Ha Nam   # Thai Binh # 1998 # Natural
+Quang # 1982 # Hoa Binh # Ha Noi # 2003 # Social
+Thuy # 1995 # Phu Tho   # Ha Noi # 2017 # Natural
+Binh # 1985 # Ha Nam    # Bac Ninh # 2010 # Social
+Tuan # 1995 # Bac Ninh # Ha Noi # 2008 # Social
+Chung # 1994 # Ha Noi    # Hai Duong # 2016 # Social
+Giang # 1978 # Hung Yen # Ha Noi # 1998 # Natural
+Doan # 1992 # Ha Tinh    # Hung Yen # 2012 # Natural
+Anh # 1990 # Thai Binh # Ha Noi # 2002 # Social
+Loan # 1995 # Ha Noi    # Ha Noi # 2018 # Natural

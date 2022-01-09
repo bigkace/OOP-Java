@@ -1,0 +1,10 @@
+Hoang # 2000 # Ha Noi    # Ha Noi # 10 # 9.5f # 8.5f
+Linh # 2002 # Ha Nam    # Ha Noi # 9 # 9.5f # 8
+Quan # 2003 # Dong Anh # Ha Noi # 10 # 9.5f # 8.5f
+Thai # 2002 # Ha Dong    # Ha Noi # 6 # 7 # 8.5f
+Tuan # 2004 # Cau Giay # Hung Yen # 6.5f # 7.5f # 8.5f
+Huong # 2005 # Tay Ho    # Ha Noi # 5 # 4.5f # 4
+Binh # 2002 # Tu Liem    # Hai Duong # 4 # 4 # 4
+Anh # 2003 # Ba Dinh    # Ha Noi # 7 # 7.5f # 7
+Quan # 2003 # Dong Da    # Bac Ninh # 5 # 5.5 # 5
+Phuong # 2004 # Long Bien # Ha Noi # 8 # 7.5 # 8.5f

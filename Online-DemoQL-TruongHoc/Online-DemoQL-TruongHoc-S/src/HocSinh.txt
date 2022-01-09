@@ -1,0 +1,10 @@
+001 # Vũ Nam Khánh # 2003 # Hà Tây # Hà Nội # 8.2 # 8 # 8.5
+002 # Nguyễn Việt Hoàng # 2003 # Hà Tây # Hà Nội # 9.3 # 9 # 8.3
+003 # Vũ Việt Hưng # 2003 # Hà Tây # Hà Nội # 8.3 # 8 # 9
+004 # Hoàng Thị Hà # 2003 # Hà Tây # Hà Nội # 7.5 # 8.5 # 8.5
+005 # Nguyễn Thị Tâm # 2003 # Hà Tây # Hà Nội # 6.5 # 5.5 # 8.0
+006 # Đỗ Thế Toàn # 2003 # Hà Tây # Hà Nội # 8.2 # 7 # 7.5
+007 # Nguyễn Thị Minh Ngọc # 2003 # Hà Tây # Hà Nội # 6.5 # 5 # 9.5
+008 # Nguyễn Thành Nam # 2003 # Hà Tây # Hà Nội # 6 # 6 # 6
+009 # Phùng Thế Khải # 2003 # Hà Tây # Hà Nội # 7.5 # 8 # 8.5
+010 # Tạ Thị Trâm # 2003 # Hà Tây # Hà Nội # 7.9 # 8.2 # 10
